@@ -89,36 +89,36 @@
 
     <h1 class="heading-title"> our services </h1>
 
-    <div class="box-container">
+    <div class="box-container"><a href="listing.php"></a>
 
         <div class="box">
-            <img src="images/bowl.jpg" alt="">
+            <img src="images/i-iactivity.png" alt="">
             <h3> Indoor Activity </h3>
         </div>
 
         <div class="box">
-            <img src="image" alt="">
+            <img src="images/i-oactivity.png" alt="">
             <h3> Outdoor Activity </h3>
         </div>
 
         <div class="box">
-            <img src="image" alt="">
+            <img src="images/i-experiences.png" alt="">
             <h3> Experiences </h3>
         </div>
 
         <div class="box">
-            <img src="image" alt="">
+            <img src="images/i-packages.png" alt="">
             <h3> Packages </h3>
         </div>
 
         <div class="box">
-            <img src="image" alt="">
+            <img src="images/i-restaurant.png" alt="">
             <h3> Restaurant </h3>
         </div>
 
         <div class="box">
-            <img src="image" alt="">
-            <h3> Customize Hangout </h3>
+            <img src="images/i-custom.png" alt="">
+            <h3> Customize hangout </h3>
         </div>
 
     </div>
@@ -202,11 +202,11 @@
 
 <!-- <script>
       var swiper = new Swiper(".mySwiper", {
-        navigation: {
-          nextEl: ".swiper-button-next",
-          prevEl: ".swiper-button-prev",
-        },
-      });
+              navigation: {
+	                nextEl: ".swiper-button-next",
+				          prevEl: ".swiper-button-prev",
+					          },
+						        });
 </script> -->
 <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
 
