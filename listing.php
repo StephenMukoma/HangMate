@@ -37,11 +37,156 @@
 </section>
 <!--header section ends-->
 
-<div class="heading" style="background:url(images/footer-img.jpg) no-repeat">
-    <h1>About us</h1>
+<div class="heading" style="background:url(images/aboutcover.jpg) no-repeat">
+    <h1>Packages</h1>
 </div>
 
+<!--listing section starts-->
 
+<section class="listings">
+
+    <h1 class="heading-title">Top destinations</h1>
+
+    <div class="box-container">
+
+        <div class="box">
+            <div class="image">
+                <img src="images/bowl.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Strike Frenzy</h3>
+                <p>Discover lanes, roll balls, knock pins and score big in the world of bowling. Let's chase those perfect shots and create unforgettable memories together! #BowlingAdventure</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/fgiraffe.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Tall Munchies</h3>
+                <p>I heard the giraffe was feeling a bit 'neck'-y, so I offered it a delectable treat. Experience the thrill of feeding a giraffe, an encounter like no other!</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/happyhour.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Cheerful Mix</h3>
+                <p>Unwind, sip, and immerse yourself in a vibrant ambience. Cheers to good times, great company, and unforgettable moments.</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/mtkenya.png" alt="">
+            </div>
+            <div class="content">
+                <h3>Summit Stride</h3>
+                <p>Lace up those boots, embrace the uphill adventure, and conquer mountains with a smile. Leave no path untrodden, as you hike with joy and relish in the euphoria of reaching the summit.</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/pottery.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Clay Play</h3>
+                <p>Get your hands dirty, unleash your inner artist, and experience the sheer joy of crafting unique pottery. Let the wheel spin and let your creativity soar!</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/rck_climb.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Grip Trip</h3>
+                <p>Embark on a gravity-defying adventure in indoor rock climbing. Feel the rush as you ascend to new heights, leaving no handhold explored. The thrill of the climb will elevate your spirits!</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/bowl.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & tour</h3>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi aperiam maxime odit facilis repellendus magnam nemo impedit ut odio. Itaque, corrupti! Assumenda consequatur dignissimos eaque quas minima repellendus sint itaque.</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/bowl.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & tour</h3>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi aperiam maxime odit facilis repellendus magnam nemo impedit ut odio. Itaque, corrupti! Assumenda consequatur dignissimos eaque quas minima repellendus sint itaque.</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/bowl.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Brush Bliss</h3>
+                <p>Immerse yourself in a world of colors, where brushes dance and creativity blooms. Dip your brush into a palette of joy, create strokes of brilliance, and let the canvas be your playground.</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/bowl.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & tour</h3>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi aperiam maxime odit facilis repellendus magnam nemo impedit ut odio. Itaque, corrupti! Assumenda consequatur dignissimos eaque quas minima repellendus sint itaque.</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/bowl.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & tour</h3>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi aperiam maxime odit facilis repellendus magnam nemo impedit ut odio. Itaque, corrupti! Assumenda consequatur dignissimos eaque quas minima repellendus sint itaque.</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+                <img src="images/bowl.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>Adventure & tour</h3>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quasi aperiam maxime odit facilis repellendus magnam nemo impedit ut odio. Itaque, corrupti! Assumenda consequatur dignissimos eaque quas minima repellendus sint itaque.</p>
+                <a href="book.php" class="btn">Book now</a>
+            </div>
+        </div>
+
+    </div>
+
+   <!-- <div class="load-more"><span class="btn">load more</span></div> -->
+    
+</section>
+<!--Listing section ends-->
 
 
 
