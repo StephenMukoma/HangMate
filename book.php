@@ -37,10 +37,61 @@
 </section>
 <!--header section ends-->
 
-<div class="heading" style="background:url(images/footer-img.jpg) no-repeat">
+<div class="heading" style="background:url(images/aboutcover.jpg) no-repeat">
     <h1>Book now</h1>
 </div>
 
+<!--booking section starts-->
+
+<section class="booking">
+
+    <h1 class="heading-title">Book your hangout!</h1>
+
+    <form action="book_form.php" method="post" class="book-form">
+
+        <div class="flex">
+            <div class="inputBox">
+                <span>Name :</span>
+                <input type="text" placeholder="enter your name" name="name">
+            </div>
+            <div class="inputBox">
+                <span>Email :</span>
+                <input type="email" placeholder="enter your email" name="email">
+            </div>
+            <div class="inputBox">
+                <span>Phone :</span>
+                <input type="number" placeholder="enter your number" name="phone">
+            </div>
+            <div class="inputBox">
+                <span>Address :</span>
+                <input type="text" placeholder="enter your address" name="address">
+            </div>
+            <div class="inputBox">
+                <span>Where to? :</span>
+                <input type="text" placeholder="place you want to visit" name="location">
+            </div>
+            <div class="inputBox">
+                <span>How many :</span>
+                <input type="number" placeholder="number of guests" name="guests">
+            </div>
+            <div class="inputBox">
+                <span>arrivals :</span>
+                <input type="date" name="arrivals">
+            </div>
+            <div class="inputBox">
+                <span>leaving :</span>
+                <input type="date" name="leaving">
+            </div>
+
+        </div>
+
+        <input type="submit" value="submit" class="btn" name="send">
+
+    </form>
+
+</section>
+
+<!--booking session ends-->
 
 
 
